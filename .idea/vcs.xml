@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/U1/LAB_T_AnaCarolina_Recycle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/U1/Lab_CardView_15" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/U1/TDM_AnaCarolinaMondragon_LAB1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/U1/TDM_AnaCarolina_LAB2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/U1/TDM_JuegoGato_AnaCarolinaMondragonRangel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/U1/TDM_SeekBar_Multiplicar" vcs="Git" />
+  </component>
+</project>
